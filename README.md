@@ -2,12 +2,12 @@
 
 #### 介绍
 CRM后台管理系统
-vue
-axios
-echarts
-element-ui
-vue-ruter
-vuex
+- vue
+- axios
+- echarts
+- element-ui
+- vue-ruter
+- vuex
 
 #### 软件架构
 vue 
