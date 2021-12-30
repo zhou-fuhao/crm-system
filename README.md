@@ -6,7 +6,7 @@ CRM后台管理系统
 - axios
 - echarts
 - element-ui
-- vue-ruter
+- vue-router
 - vuex
 
 #### 软件架构
